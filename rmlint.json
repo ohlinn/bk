@@ -1,0 +1,46 @@
+[
+{
+  "description": "rmlint json-dump of lint files",
+  "cwd": "/run/media/vainilie/Docs/MyProjects/board/",
+  "args": "rmlint",
+  "version": "2.10.1",
+  "rev": "unknown",
+  "progress": 0,
+  "checksum_type": "blake2b",
+  "merge_directories": false
+}, {
+  "id": 3837911167,
+  "type": "duplicate_file",
+  "progress": 100,
+  "checksum": "4eab0498ed7423853de0ed7f54d09a16f532594cbbf5ca90a7aee26d35cfbea9318d28defba1d7ffb7c65697a340348b3a255c082d32e40566b2fe24bbb78d6c",
+  "path": "/run/media/vainilie/Docs/MyProjects/board/board1.json",
+  "size": 54974,
+  "depth": 1,
+  "inode": 42729482,
+  "disk_id": 2052,
+  "is_original": true,
+  "twins": 2,
+  "mtime": 1670980176.635926
+}, {
+  "id": 1439954075,
+  "type": "duplicate_file",
+  "progress": 100,
+  "checksum": "4eab0498ed7423853de0ed7f54d09a16f532594cbbf5ca90a7aee26d35cfbea9318d28defba1d7ffb7c65697a340348b3a255c082d32e40566b2fe24bbb78d6c",
+  "path": "/run/media/vainilie/Docs/MyProjects/board/board.json",
+  "size": 54974,
+  "depth": 1,
+  "inode": 42729481,
+  "disk_id": 2052,
+  "is_original": false,
+  "twins": 2,
+  "mtime": 1671580260.7628121
+}, {
+  "aborted": false,
+  "progress": 100,
+  "total_files": 14,
+  "ignored_files": 1,
+  "ignored_folders": 1,
+  "duplicates": 1,
+  "duplicate_sets": 1,
+  "total_lint_size": 54974
+}]
